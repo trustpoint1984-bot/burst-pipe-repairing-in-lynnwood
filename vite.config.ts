@@ -25,6 +25,7 @@ export default defineConfig(() => {
           blogSlabLeak: path.resolve(__dirname, 'blog-slab-leak-detection-repair-lynnwood-wa.html'),
           blogEmergencyShutoff: path.resolve(__dirname, 'blog-emergency-water-shutoff-valve-guide.html'),
           contact: path.resolve(__dirname, 'contact.html'),
+          notFound: path.resolve(__dirname, '404.html'),
         },
       },
     },
